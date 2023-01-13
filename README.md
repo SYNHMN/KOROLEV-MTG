@@ -7,6 +7,7 @@ The font is Free and Open Source Software (FOSS) under the Massachusetts Institu
 ## License
 
 [OFL](https://scripts.sil.org/OFL)
+<br/>
 [MIT](https://opensource.org/licenses/MIT)
 
 
