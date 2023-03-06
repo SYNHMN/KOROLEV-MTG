@@ -1,6 +1,8 @@
 ### KOROLEV MTG 1.0
 
-Typeface ...
+T out of related out of T
+
+Only through stars can mortals see into the hidden world.
 
 The typeface is under the SIL Open Font License (OFL) license.
 <br/>
