@@ -16,4 +16,4 @@ The font is Free and Open Source Software (FOSS) under the Massachusetts Institu
 
 ## Preview
 
-![](https://raw.githubusercontent.com/SYNHMN/KOROLEV/main/preview/Preview-1.png)
+![](https://raw.githubusercontent.com/SYNHMN/KOROLEV-MTG/main/preview/Preview-1.png)
